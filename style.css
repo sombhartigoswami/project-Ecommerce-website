@@ -223,7 +223,7 @@ margin-bottom: 10px;
     align-items: center;
 }
 .logo{
-    background-image: url(images/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     height: 50px;
     background-size: cover;
     width: 100px;
